@@ -1,0 +1,1 @@
+What are AI assistants and AI agents? Is it two words for the same thing? If not, what are the differences between them exactly?

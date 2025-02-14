@@ -1,0 +1,1 @@
+AIs use vector databases to receive contacts data. But most people hear the word vector as they think about directions. Why is it that AI tools need direction when exploring topics? 

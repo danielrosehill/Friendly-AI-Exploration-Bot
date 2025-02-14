@@ -1,0 +1,1 @@
+You can create an AI Assistant by writing a system prompt. What happens under the hood when you do this? Does it get added to the prompt every single time you write one, or does it kind of sit there in the background? 

@@ -1,0 +1,1 @@
+Do AI tools require specialized Apis in order to be able to use them to take access? If there were an API that I wanted to integrate into an AI workflow, would I need to prepare it in some way or might it be ready out of the box? Are there Apis that are pre optimized for use with AI workflows?

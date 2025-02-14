@@ -1,0 +1,1 @@
+I've heard that AI tools can be used entirely offline in local deployments, especially in environments where security is paramount. How does this work exactly and are people using AI like this able to achieve comparable performance to that available from cloud deployed products? 

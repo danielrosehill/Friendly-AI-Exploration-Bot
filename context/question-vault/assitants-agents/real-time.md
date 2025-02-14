@@ -1,0 +1,1 @@
+Some AI tools are now able to access real time search data. How is this possible? What are the additional tools that are added on top of the basic large language models to enable this capability? And can you develop your own AI model with its own real time data accessibilities? 

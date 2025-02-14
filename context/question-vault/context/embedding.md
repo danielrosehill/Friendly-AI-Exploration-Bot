@@ -1,0 +1,1 @@
+In order to add data for AI tools to access to a vector database, you need to do something called embedding. What is embedding and why are there different embedding models? What do they do differently? And when I am embedding I see a lot of different settings. Like the chunk size and the chunk overlap. What do these do exactly? 

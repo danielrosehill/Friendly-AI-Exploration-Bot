@@ -1,0 +1,1 @@
+Its common knowledge that AI tools make heavy use of Gpus. But before AI entered the mainstream Gpus were mostly famous for being the things that drives monitor displays. Large language models, however, deal in words. What is it about their design and operation that makes them heavy users of Gpus? Why don't they utilize Cpus for their inference? 

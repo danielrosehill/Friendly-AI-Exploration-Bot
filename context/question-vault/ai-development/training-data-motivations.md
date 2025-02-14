@@ -1,0 +1,1 @@
+In order to gain knowledge about the world, AI tools require huge amounts of training data. Was this training data available before AI tools were a major development? What motivated people and what motivates them to gather up large sweeps of Internet data and put it on the Internet? 

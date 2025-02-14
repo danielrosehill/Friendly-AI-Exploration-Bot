@@ -1,0 +1,1 @@
+Some large language models have been developed outside of the context of the US. How do these models differ in their operation as compared to models that were developed using training data that came from American or Western sources? If an AI tool from the east and West were exposed to one another, would they disagree or suggest different approaches for problem solving? 

@@ -1,0 +1,1 @@
+Let's say that I wanted to use an AI agent to access some secret or sensitive data. Let's imagine that I wanted to create an AI tool that had access to my password vault via an API integration. Is there a way to allow agent AI use that is sufficiently secure to protect these in the conventional standards?

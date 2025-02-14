@@ -1,0 +1,1 @@
+What is the difference between rag and the type of "memory" that AI tools like ChatGPT sometimes have? 

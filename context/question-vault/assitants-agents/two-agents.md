@@ -1,0 +1,1 @@
+What would happen if two AI agents (or LLMs) were to talk to one another? Has this been tried before? Do AI agents have the ability to determine whether they're talking to another AI tool or a human?

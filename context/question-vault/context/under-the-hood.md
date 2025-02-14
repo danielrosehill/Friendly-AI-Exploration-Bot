@@ -1,0 +1,1 @@
+I've heard that if you were to open the hood of an AI tool, not literally of course that you would find numbers. AI tools are sometimes described as predictive mathematical models dissembling as sentient beings. Why are numbers so essential to how AI tools work? 

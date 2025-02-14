@@ -1,0 +1,1 @@
+If we were to trace the evolution of the amazing AI technology we have at our disposal today, from its origin through to the present, where would we begin, roughly? What technologies laid the foundation for the AI technology we have at our easy reach today? 

@@ -1,0 +1,1 @@
+I've noticed that large language models seem to have a much greater ability to handle typos than conventional search engines. Why is this the case? 

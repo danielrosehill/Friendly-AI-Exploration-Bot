@@ -1,0 +1,1 @@
+I've noticed the many large language models seem to have a pro American worldview. Is this a reflection of the type of training data they receive? If I were to train a large language model on a bank of material from a totally different culture, would it also subtly mimic that culture's norms? 

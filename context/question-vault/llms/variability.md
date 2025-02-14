@@ -1,0 +1,1 @@
+If I ask a large language model the same question over and over again will I get the same result? I've tried this a few times and noticed that my results were always a bit different. Why is this? Is that a defect in the system or expected?

@@ -1,0 +1,1 @@
+In AI communities, you frequently hear about the weights and balances within a model. What does this mean exactly and how do they affect the operation of the tool? 

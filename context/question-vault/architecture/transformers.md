@@ -1,0 +1,1 @@
+Explain the Transformers architecture to me as if I were five years old. Why was it so pivotal to the development and acceleration of AI tools? 

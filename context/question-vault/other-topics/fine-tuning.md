@@ -1,0 +1,1 @@
+What does it mean when somebody fine tunes an AI model? What are some fine tunes that have been done to date? What are some things that can be done with fine tunes that can be done with general models? How long does the process of fine tuning an AI model typically take? Is it complicated?

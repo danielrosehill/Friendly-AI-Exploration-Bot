@@ -1,0 +1,1 @@
+What happens if I write a really long prompt to an AI model? Do AI models lose quality because they get confused by long prompt? What happens if a right lengthy prompt and there are some inconsistencies in the prompt? 

@@ -1,0 +1,1 @@
+Why do AI tools require the use of specialised vector databases for injecting context into conversations? Why can't they just use regular databases like SQL?

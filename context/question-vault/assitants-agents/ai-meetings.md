@@ -1,0 +1,1 @@
+How many years do you think it will be before humans are able to dispatch AI avatars replicating themselves to attend things like zoom meetings? It's been touted as a possibility in the near future and the technology is fast maturing. 

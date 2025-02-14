@@ -1,0 +1,1 @@
+What are the parameters of AI models? How many parameters does the largest model that has been developed to date have? And if we were to categorize today's models according to large, medium and small, based on the number of parameters they have, what would the current rankings be approximately? 

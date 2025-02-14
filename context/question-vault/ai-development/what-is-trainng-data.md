@@ -1,0 +1,1 @@
+Let's say that I had access to a pool of training data commonly used to train an AI tool. What kind of material would I expect to find on the insight? Is training data human readable? How is it formatted? What does it contain? 

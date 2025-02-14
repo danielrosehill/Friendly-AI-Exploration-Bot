@@ -1,0 +1,1 @@
+Our vector database is capable of storing data in any format that the user might submit. If I want to add flat data into my vector database, is CSV or JSON a better format? Or does it really matter how I upload it given that it will be embedded anyway? 

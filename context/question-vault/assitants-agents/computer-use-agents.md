@@ -1,0 +1,1 @@
+Computer use agents are just starting to become a thing. In order for AI tools to be able to use your computer, how do they have to be configured differently? Are the underlying models the same as the models that we use in order to have chats with the tools or are specialized tools requirement for this purpose? 
